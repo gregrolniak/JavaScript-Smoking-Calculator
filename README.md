@@ -1,3 +1,4 @@
 # JavaScript-Smoking-Calculator
-JS App to determine the cost of smoking 50 years
-Version 1.0.0
+  Version 1.0.0
+  December 14, 2015
+  JavaScript app to determine the cost of smoking 50 years
